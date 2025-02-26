@@ -10,9 +10,22 @@ Date: 2025-02-24
 
 # Acme Sales & Margin Optimizer
 
-[TOC]
-
 A sophisticated Python tool designed to optimize sales and profit margins across different business segments using linear programming techniques. It handles hierarchical business structures with multiple levels including Portfolio, Geography, Category, Brand, and Segment.
+
+## Table of Contents
+
+[Overview](#overview)\
+[Features](#features)\
+[Requirements](#requirements)\
+[Environment Setup](#environment-setup)\
+[Usage](#usage)\
+[Output Files](#output-files)\
+[Data Structure](#data-structure)\
+[Limitations](#limitations)\
+[Class Structure](#class-structure)\
+[Example Output](#example-output)\
+[Error Handling](#error-handling)
+
 
 ## Overview
 
@@ -223,11 +236,3 @@ The optimizer generates comprehensive results including:
 
 ### Logging
 The system logs errors and operations to `optimizer.log`. Log levels can be configured in the settings.
-
-## Performance Benchmarks
-
-- Small dataset (< 1000 records): < 2 seconds
-- Medium dataset (< 10000 records): < 10 seconds
-- Large dataset (< 100000 records): < 60 seconds
-
-Memory usage scales approximately linearly with input size.
