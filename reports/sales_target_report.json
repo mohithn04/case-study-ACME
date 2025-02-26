@@ -1,0 +1,428 @@
+{
+    "summary": {
+        "Total_Original_Sales": 83000000.0,
+        "Total_New_Sales": 99600000.0,
+        "Sales_Growth": 20.0,
+        "Total_Original_Profit": 25695000.0,
+        "Total_New_Profit": 30834000.0,
+        "Profit_Growth": 20.0,
+        "Average_New_Trend": 20.000000000000004,
+        "Top_Growing_Segments": [
+            {
+                "Segment": "Lipstick",
+                "New_Trend": 0.2
+            },
+            {
+                "Segment": "Mascara",
+                "New_Trend": 0.2
+            },
+            {
+                "Segment": "Lipstick",
+                "New_Trend": 0.2
+            },
+            {
+                "Segment": "Toner",
+                "New_Trend": 0.2
+            },
+            {
+                "Segment": "Bronzer",
+                "New_Trend": 0.2
+            }
+        ],
+        "Top_Contributing_Segments": [
+            {
+                "Segment": "Lipstick",
+                "New_Sales": 13200000.0
+            },
+            {
+                "Segment": "Perfume",
+                "New_Sales": 12000000.0
+            },
+            {
+                "Segment": "Lipstick",
+                "New_Sales": 9600000.0
+            },
+            {
+                "Segment": "Hair Color",
+                "New_Sales": 8400000.0
+            },
+            {
+                "Segment": "Foundation",
+                "New_Sales": 7200000.0
+            }
+        ]
+    },
+    "Portfolio": [
+        {
+            "Portfolio": "Acme",
+            "Sales": 83000000,
+            "New_Sales": 99600000.0,
+            "Margin": 0.2977777777777778,
+            "New_Profit": 30834000.0,
+            "New_Trend": 0.2,
+            "Original_Profit": 24715555.55555556,
+            "Sales_Growth": 20.0,
+            "Profit_Growth": 24.75543966912424
+        }
+    ],
+    "Geography": [
+        {
+            "Geography": "Asia",
+            "Sales": 4600000,
+            "New_Sales": 5520000.0,
+            "Margin": 0.30666666666666664,
+            "New_Profit": 1776000.0,
+            "New_Trend": 0.20000000000000004,
+            "Original_Profit": 1410666.6666666665,
+            "Sales_Growth": 20.0,
+            "Profit_Growth": 25.897920604914948
+        },
+        {
+            "Geography": "Europe",
+            "Sales": 57400000,
+            "New_Sales": 68880000.0,
+            "Margin": 0.27416666666666667,
+            "New_Profit": 18858000.0,
+            "New_Trend": 0.20000000000000004,
+            "Original_Profit": 15737166.666666666,
+            "Sales_Growth": 20.0,
+            "Profit_Growth": 19.830973385721702
+        },
+        {
+            "Geography": "North America",
+            "Sales": 18000000,
+            "New_Sales": 21600000.0,
+            "Margin": 0.42500000000000004,
+            "New_Profit": 9120000.0,
+            "New_Trend": 0.2,
+            "Original_Profit": 7650000.000000001,
+            "Sales_Growth": 20.0,
+            "Profit_Growth": 19.21568627450979
+        },
+        {
+            "Geography": "South America",
+            "Sales": 3000000,
+            "New_Sales": 3600000.0,
+            "Margin": 0.3,
+            "New_Profit": 1080000.0,
+            "New_Trend": 0.2,
+            "Original_Profit": 900000.0,
+            "Sales_Growth": 20.0,
+            "Profit_Growth": 20.0
+        }
+    ],
+    "Category": [
+        {
+            "Category": "Color Cosmetics",
+            "Sales": 8000000,
+            "New_Sales": 9600000.0,
+            "Margin": 0.45,
+            "New_Profit": 4320000.0,
+            "New_Trend": 0.2,
+            "Original_Profit": 3600000.0,
+            "Sales_Growth": 20.0,
+            "Profit_Growth": 20.0
+        },
+        {
+            "Category": "Face Make-up",
+            "Sales": 2600000,
+            "New_Sales": 3120000.0,
+            "Margin": 0.25,
+            "New_Profit": 768000.0,
+            "New_Trend": 0.2,
+            "Original_Profit": 650000.0,
+            "Sales_Growth": 20.0,
+            "Profit_Growth": 18.153846153846153
+        },
+        {
+            "Category": "Face make-up",
+            "Sales": 6000000,
+            "New_Sales": 7200000.0,
+            "Margin": 0.28,
+            "New_Profit": 2016000.0000000002,
+            "New_Trend": 0.2,
+            "Original_Profit": 1680000.0000000002,
+            "Sales_Growth": 20.0,
+            "Profit_Growth": 20.0
+        },
+        {
+            "Category": "Fragrance",
+            "Sales": 25000000,
+            "New_Sales": 30000000.0,
+            "Margin": 0.39,
+            "New_Profit": 11694000.0,
+            "New_Trend": 0.2,
+            "Original_Profit": 9750000.0,
+            "Sales_Growth": 20.0,
+            "Profit_Growth": 19.93846153846154
+        },
+        {
+            "Category": "Hair",
+            "Sales": 3000000,
+            "New_Sales": 3600000.0,
+            "Margin": 0.3,
+            "New_Profit": 1080000.0,
+            "New_Trend": 0.2,
+            "Original_Profit": 900000.0,
+            "Sales_Growth": 20.0,
+            "Profit_Growth": 20.0
+        },
+        {
+            "Category": "Hair Dye",
+            "Sales": 7000000,
+            "New_Sales": 8400000.0,
+            "Margin": 0.25,
+            "New_Profit": 2100000.0,
+            "New_Trend": 0.2,
+            "Original_Profit": 1750000.0,
+            "Sales_Growth": 20.0,
+            "Profit_Growth": 20.0
+        },
+        {
+            "Category": "Make-up brushes",
+            "Sales": 3000000,
+            "New_Sales": 3600000.0,
+            "Margin": 0.3,
+            "New_Profit": 1080000.0,
+            "New_Trend": 0.2,
+            "Original_Profit": 900000.0,
+            "Sales_Growth": 20.0,
+            "Profit_Growth": 20.0
+        },
+        {
+            "Category": "Tools",
+            "Sales": 28400000,
+            "New_Sales": 34080000.0,
+            "Margin": 0.22166666666666668,
+            "New_Profit": 7776000.0,
+            "New_Trend": 0.20000000000000004,
+            "Original_Profit": 6295333.333333334,
+            "Sales_Growth": 20.0,
+            "Profit_Growth": 23.520067775071468
+        }
+    ],
+    "Brand": [
+        {
+            "Brand": "Aveda",
+            "Sales": 3000000,
+            "New_Sales": 3600000.0,
+            "Margin": 0.3,
+            "New_Profit": 1080000.0,
+            "New_Trend": 0.2,
+            "Original_Profit": 900000.0,
+            "Sales_Growth": 20.0,
+            "Profit_Growth": 20.0
+        },
+        {
+            "Brand": "Balmain",
+            "Sales": 4500000,
+            "New_Sales": 5400000.0,
+            "Margin": 0.35,
+            "New_Profit": 1889999.9999999998,
+            "New_Trend": 0.2,
+            "Original_Profit": 1575000.0,
+            "Sales_Growth": 20.0,
+            "Profit_Growth": 19.999999999999986
+        },
+        {
+            "Brand": "Bobbi Brown",
+            "Sales": 14400000,
+            "New_Sales": 17280000.0,
+            "Margin": 0.3333333333333333,
+            "New_Profit": 6516000.0,
+            "New_Trend": 0.20000000000000004,
+            "Original_Profit": 4800000.0,
+            "Sales_Growth": 20.0,
+            "Profit_Growth": 35.75
+        },
+        {
+            "Brand": "Brand X",
+            "Sales": 7000000,
+            "New_Sales": 8400000.0,
+            "Margin": 0.25,
+            "New_Profit": 2100000.0,
+            "New_Trend": 0.2,
+            "Original_Profit": 1750000.0,
+            "Sales_Growth": 20.0,
+            "Profit_Growth": 20.0
+        },
+        {
+            "Brand": "Brand Y",
+            "Sales": 3000000,
+            "New_Sales": 3600000.0,
+            "Margin": 0.3,
+            "New_Profit": 1080000.0,
+            "New_Trend": 0.2,
+            "Original_Profit": 900000.0,
+            "Sales_Growth": 20.0,
+            "Profit_Growth": 20.0
+        },
+        {
+            "Brand": "Brand Z",
+            "Sales": 6000000,
+            "New_Sales": 7200000.0,
+            "Margin": 0.28,
+            "New_Profit": 2016000.0000000002,
+            "New_Trend": 0.2,
+            "Original_Profit": 1680000.0000000002,
+            "Sales_Growth": 20.0,
+            "Profit_Growth": 20.0
+        },
+        {
+            "Brand": "Elizabeth Arden",
+            "Sales": 24600000,
+            "New_Sales": 29520000.0,
+            "Margin": 0.21333333333333335,
+            "New_Profit": 6348000.0,
+            "New_Trend": 0.20000000000000004,
+            "Original_Profit": 5248000.0,
+            "Sales_Growth": 20.0,
+            "Profit_Growth": 20.960365853658537
+        },
+        {
+            "Brand": "Frederic Malle",
+            "Sales": 3500000,
+            "New_Sales": 4200000.0,
+            "Margin": 0.38,
+            "New_Profit": 1596000.0,
+            "New_Trend": 0.2,
+            "Original_Profit": 1330000.0,
+            "Sales_Growth": 20.0,
+            "Profit_Growth": 20.0
+        },
+        {
+            "Brand": "Kilian",
+            "Sales": 17000000,
+            "New_Sales": 20400000.0,
+            "Margin": 0.4066666666666667,
+            "New_Profit": 8208000.0,
+            "New_Trend": 0.20000000000000004,
+            "Original_Profit": 6913333.333333334,
+            "Sales_Growth": 20.0,
+            "Profit_Growth": 18.727097396335573
+        }
+    ],
+    "Segment": [
+        {
+            "Segment": "Bronzer",
+            "Sales": 5200000,
+            "New_Sales": 6240000.0,
+            "Margin": 0.3,
+            "New_Profit": 1872000.0,
+            "New_Trend": 0.2,
+            "Original_Profit": 1560000.0,
+            "Sales_Growth": 20.0,
+            "Profit_Growth": 20.0
+        },
+        {
+            "Segment": "Brushes",
+            "Sales": 3000000,
+            "New_Sales": 3600000.0,
+            "Margin": 0.3,
+            "New_Profit": 1080000.0,
+            "New_Trend": 0.2,
+            "Original_Profit": 900000.0,
+            "Sales_Growth": 20.0,
+            "Profit_Growth": 20.0
+        },
+        {
+            "Segment": "Cologne",
+            "Sales": 4500000,
+            "New_Sales": 5400000.0,
+            "Margin": 0.35,
+            "New_Profit": 1889999.9999999998,
+            "New_Trend": 0.2,
+            "Original_Profit": 1575000.0,
+            "Sales_Growth": 20.0,
+            "Profit_Growth": 19.999999999999986
+        },
+        {
+            "Segment": "Essential Oils",
+            "Sales": 3500000,
+            "New_Sales": 4200000.0,
+            "Margin": 0.38,
+            "New_Profit": 1596000.0,
+            "New_Trend": 0.2,
+            "Original_Profit": 1330000.0,
+            "Sales_Growth": 20.0,
+            "Profit_Growth": 20.0
+        },
+        {
+            "Segment": "Foundation",
+            "Sales": 6000000,
+            "New_Sales": 7200000.0,
+            "Margin": 0.28,
+            "New_Profit": 2016000.0000000002,
+            "New_Trend": 0.2,
+            "Original_Profit": 1680000.0000000002,
+            "Sales_Growth": 20.0,
+            "Profit_Growth": 20.0
+        },
+        {
+            "Segment": "Hair Color",
+            "Sales": 7000000,
+            "New_Sales": 8400000.0,
+            "Margin": 0.25,
+            "New_Profit": 2100000.0,
+            "New_Trend": 0.2,
+            "Original_Profit": 1750000.0,
+            "Sales_Growth": 20.0,
+            "Profit_Growth": 20.0
+        },
+        {
+            "Segment": "Lipstick",
+            "Sales": 22400000,
+            "New_Sales": 26880000.0,
+            "Margin": 0.37666666666666665,
+            "New_Profit": 9192000.0,
+            "New_Trend": 0.20000000000000004,
+            "Original_Profit": 8437333.333333332,
+            "Sales_Growth": 20.0,
+            "Profit_Growth": 8.944374209860952
+        },
+        {
+            "Segment": "Mascara",
+            "Sales": 8400000,
+            "New_Sales": 10080000.0,
+            "Margin": 0.15666666666666668,
+            "New_Profit": 1512000.0,
+            "New_Trend": 0.20000000000000004,
+            "Original_Profit": 1316000.0,
+            "Sales_Growth": 20.0,
+            "Profit_Growth": 14.893617021276595
+        },
+        {
+            "Segment": "Perfume",
+            "Sales": 17000000,
+            "New_Sales": 20400000.0,
+            "Margin": 0.4066666666666667,
+            "New_Profit": 8208000.0,
+            "New_Trend": 0.20000000000000004,
+            "Original_Profit": 6913333.333333334,
+            "Sales_Growth": 20.0,
+            "Profit_Growth": 18.727097396335573
+        },
+        {
+            "Segment": "Shampoo",
+            "Sales": 3000000,
+            "New_Sales": 3600000.0,
+            "Margin": 0.3,
+            "New_Profit": 1080000.0,
+            "New_Trend": 0.2,
+            "Original_Profit": 900000.0,
+            "Sales_Growth": 20.0,
+            "Profit_Growth": 20.0
+        },
+        {
+            "Segment": "Toner",
+            "Sales": 3000000,
+            "New_Sales": 3600000.0,
+            "Margin": 0.08,
+            "New_Profit": 288000.0,
+            "New_Trend": 0.2,
+            "Original_Profit": 240000.0,
+            "Sales_Growth": 20.0,
+            "Profit_Growth": 20.0
+        }
+    ]
+}
